@@ -3,7 +3,8 @@
 	"version" : "1.0",
 	"description" : "this is a test chrome extension",
 	"browser_action" : {
-		"deafualt_icon" : "icon.mhtml"
+		"default_icon" : "icon.jpg",
+		"default_popup" : "popup.html"
 	},
 	"manifest_version" : 2
 }
