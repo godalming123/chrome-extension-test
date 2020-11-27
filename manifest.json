@@ -1,0 +1,9 @@
+{
+	"name" : "test extension",
+	"version" : "1.0",
+	"description" : "this is a test chrome extension",
+	"browser_action" : {
+		"deafualt_icon" : "icon.mhtml"
+	},
+	"manifest_version" : 2
+}
