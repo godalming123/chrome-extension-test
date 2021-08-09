@@ -2,7 +2,7 @@
 	"name" : "maths",
 	"version" : "1.0",
 	"icons" : {
-		
+		"2500" : "icon.png"
 	},
 	"description" : "use this to solve alebra quikly from your browser",
 	"browser_action" : {
